@@ -46,10 +46,10 @@ python manage.py runserver
 cd frontend
 ```
 ### Install Dependiencies
- `npm install`
+ ```npm install```
  
 ### Run
- `npm start`
+ ```npm start```
 
 Runs the app in the development mode.<br />
 

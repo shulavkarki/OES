@@ -1,9 +1,1 @@
-Inside project directory:
-
-### `npm install`
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
+> Frontend is bulilt with React for building client side of application for making API calls to the server and re-render to the interface.

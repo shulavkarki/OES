@@ -1,0 +1,35 @@
+
+.site-layout-background {
+    background: #f5f5f5;
+  } 
+.logo{
+    color: grey;
+    float: left;
+    font-style: italic;
+    align-items: center;
+    margin: 0px 55px 0px 0px;
+    font-size: 17px;
+}
+.slider-color{
+    background-color: #91d5ff;
+}
+.demo {
+    margin: 10px;
+}
+
+.demo-nav {
+height: 24px;
+margin-bottom: 40px;
+padding-left: 20px;
+font-size: 17px;
+font-family: cursive;
+background: #ffffff;
+color: #bfbfbf;
+}
+.nav-bar{
+    background-color: #111d2c;
+
+}
+.button-color{
+    background-color: #91d5ff;
+}

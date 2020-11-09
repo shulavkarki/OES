@@ -1,4 +1,6 @@
-In the project directory, you can run:
+Inside project directory:
+
+### `npm install`
 
 ### `npm start`
 

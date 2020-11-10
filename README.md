@@ -10,6 +10,7 @@ git clone https://github.com/shulavkarki/OES.git
 ### Create Virtual Env
 
 ```
+cd Backend
 py -m venv <env_name>
 ```
 
@@ -21,7 +22,7 @@ py -m venv <env_name>
 ### Install Dependencies
 
 ```
-cd Backend
+
 pip install -r requirements.txt
 ```
 

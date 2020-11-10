@@ -7,25 +7,13 @@
 git clone https://github.com/shulavkarki/OES.git
 ```
 
-### Create Virtual Env
-
-```
-cd Backend
-py -m venv <env_name>
-```
+``
 
 ### Activate environment
 ```
-<env_name>\Scripts\activate
+cd backend
+venv\Scripts\activate
 ```
-
-### Install Dependencies
-
-```
-
-pip install -r requirements.txt
-```
-
 ### Make Migrations
 
 ```
